@@ -1,0 +1,12 @@
+@import "reset.css";
+
+
+@import "variables.css";
+@import "navbar.css";
+@import "hero.css";
+@import "productos.css";
+@import "footer.css";
+
+:root{
+    background-color: #f0f8ff;
+}

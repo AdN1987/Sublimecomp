@@ -1,0 +1,16 @@
+:root{
+    --primary-color: linear-gradient(to right, rgb(3, 207, 248) ,rgb(182, 248, 74), rgb(238, 131, 49));
+    --back-color: #21170b;
+
+}
+
+
+
+main{
+    font-family: "Montserrat",sans-serif;
+    overflow: hidden;
+}
+
+.text-serif{
+    font-family: "DM serif Display", serif;
+}

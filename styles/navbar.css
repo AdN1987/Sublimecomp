@@ -1,0 +1,17 @@
+.navbar {
+    background: var(--primary-color); 
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.nombre{
+    width: 170px;
+    height: auto;
+
+}
+
+.menu{
+    width: 50px;
+    height: 50px;
+}
