@@ -10,3 +10,8 @@
 :root{
     background-color: #f0f8ff;
 }
+
+.navbar, .hero, .productos{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
